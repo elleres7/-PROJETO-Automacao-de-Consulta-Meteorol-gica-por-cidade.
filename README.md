@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elleres7&label=Profile%20views&color=0e75b6&style=flat" alt="elleres7" /> </p>
 
-Dando corpo aos meus estudos, posto esse primeiro projeto de automação de consulta meteorológica, consegui por em pratica meus conhecimentos básico/intermediário em Python. Mesmo que o codigo-fonte pareça igual para todo projeto básico de automação de tempo, personalizei detalhes para mostrar minhas habilidades e na resolução de problemas. 
+Meu primeiro projeto de automação sobre consulta meteorológica, basta digitar a cidade + estado em que deseja e receberá o informe com temperatura e condições climáticas atuais. 
 
 <b>VERSÃO 1.0</b>
 
