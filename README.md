@@ -4,9 +4,9 @@
 
 Meu primeiro projeto de automação sobre consulta meteorológica, basta digitar a cidade + estado em que deseja e receberá o informe com temperatura e condições climáticas atuais. 
 
+[Clique Aqui](https://github.com/elleres7/PROJETO-Automacao-de-Consulta-Meteorologica-por-cidade./blob/master/projeto_autclima.py)
+
 <b>VERSÃO 1.0</b>
 
-- Utilizei outra <b>KEY</b> de outra <b>API</b>.
-- O link criando pela variável <b>"pedido"</b> se altera por conta dessa nova API.
 - Na variável <b>"clima"</b> usei o <b>.lower()</b> para que o formato das condições climaticas não fique esteticamente avulso.
 - Comando <b>Print</b> personalizado e pensando na entrega de informação mais simples ao usuário.
